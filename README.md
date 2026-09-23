@@ -30,6 +30,7 @@ with      ∂L/∂αᵢ = −sᵢ  (sensitivity drives allocation)
 | `docs/prior-art-analysis.md` | Prior art overlap analysis — 146 papers across 10 search vectors |
 | `docs/cfd-mathematical-proof.md` | Mathematical proof of O(n⁴)→O(1) speedup for hybrid AI CFD |
 | `docs/b2b-business-plan.md` | OptiCore AI B2B licensing architecture for autonomous systems |
+| `docs/license-model-evaluation.md` | **License Model Evaluation — optimal IP monetization strategy with benchmarking & ROI optimization** |
 | `data/prior-art/` | Raw search results (CSV) from 10 Google Scholar vectors |
 | `verifier/` | Acceptance criteria and validation runs |
 
@@ -62,6 +63,18 @@ with      ∂L/∂αᵢ = −sᵢ  (sensitivity drives allocation)
 
 ---
 
+## License Model Optimization
+
+The License Model Evaluation provides a comprehensive analysis of OptiCore AI's monetization strategy:
+
+- **Benchmarking** against 12 peer companies across 3 categories (AI optimization, simulation software, deep-tech IP)
+- **Revenue scenario modeling** showing 63% ARR improvement potential ($18M → $29.4M Year 3)
+- **Optimized 5-tier architecture** with credit system, outcome bonuses, and field-of-use exclusivity
+- **18-month transition roadmap** from flat-rate to hybrid consumption-outcome model
+- **Risk-adjusted ROI:** Expected exit valuation $287M (19.1x return on $15M invested)
+
+---
+
 ## Prior Art Coverage
 
 - **10 Google Scholar search vectors**
@@ -74,13 +87,15 @@ with      ∂L/∂αᵢ = −sᵢ  (sensitivity drives allocation)
 
 ## Principal Documents
 
-The framework is delivered as three formal Word documents:
+The framework is delivered as four formal documents:
 
 1. **Unified Resource Allocation Framework** — Mathematical proof of isomorphism, domain mappings, implementation roadmap, and concrete numerical examples (UAV edge scenario with 100ms latency budget)
 
 2. **Prior Art Overlap Analysis** — Systematic literature review with quantitative overlap matrix, strategic implications, and publication venue recommendations
 
-3. **B2B Business Plan & Licensing Architecture** — Market-ready commercialization strategy for OptiCore AI, including IP protection (trade secret + patent), tiered licensing ($150K–$2M+), phased GTM, and exit strategy
+3. **B2B Business Plan & Licensing Architecture** — Market-ready commercialization strategy for OptiCore AI, including IP protection (trade secret + patent), tiered licensing, phased GTM, and exit strategy
+
+4. **License Model Evaluation** — Benchmark-driven optimization of licensing architecture, comparing flat-rate vs. hybrid consumption-outcome models, with 3-year scenario modeling, sensitivity analysis, and 15 prioritized action items
 
 ---
 
