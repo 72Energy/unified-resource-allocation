@@ -29,4 +29,4 @@
   3. Raw data (CSV) from prior art searches preserved
   4. Verifier logs included in repository
   5. Clear citation strategy and publication venue recommendations
-- Status: IN PROGRESS
+- Status: PASSED — Repository live at https://github.com/72Energy/unified-resource-allocation
