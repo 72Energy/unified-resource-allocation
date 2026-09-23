@@ -30,3 +30,15 @@
   4. Verifier logs included in repository
   5. Clear citation strategy and publication venue recommendations
 - Status: PASSED — Repository live at https://github.com/72Energy/unified-resource-allocation
+
+## v4 (2026-09-23)
+- Measures: License model optimization, IP monetization benchmarking, ROI maximization
+- Acceptance Criteria:
+  1. Must benchmark current license model against >= 3 peer categories
+  2. Must identify >= 3 structural weaknesses in current model
+  3. Must model >= 3 revenue scenarios with quantitative projections
+  4. Must propose optimized licensing architecture with tier definitions
+  5. Must include 18-month transition roadmap with phased actions
+  6. Must preserve trade secret protection in all recommended tiers
+  7. Must include risk-adjusted ROI with expected value calculation
+- Status: PASSED — Document builds without errors; 715 lines; 9 sections; 12 tables
