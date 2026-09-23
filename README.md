@@ -21,6 +21,14 @@ with      ∂L/∂αᵢ = −sᵢ  (sensitivity drives allocation)
 
 ---
 
+## Live Website
+
+**🌐 [OptiCore AI — Official Website](https://3xsawkaft3jgk.kimi.page)**
+
+Professional landing page presenting the company, products, performance metrics, competitive advantages, pricing, and target customers.
+
+---
+
 ## Repository Structure
 
 | File | Description |
@@ -30,7 +38,7 @@ with      ∂L/∂αᵢ = −sᵢ  (sensitivity drives allocation)
 | `docs/prior-art-analysis.md` | Prior art overlap analysis — 146 papers across 10 search vectors |
 | `docs/cfd-mathematical-proof.md` | Mathematical proof of O(n⁴)→O(1) speedup for hybrid AI CFD |
 | `docs/b2b-business-plan.md` | OptiCore AI B2B licensing architecture for autonomous systems |
-| `docs/license-model-evaluation.md` | **License Model Evaluation — optimal IP monetization strategy with benchmarking & ROI optimization** |
+| `docs/license-model-evaluation.md` | License Model Evaluation — optimal IP monetization strategy with benchmarking & ROI optimization |
 | `data/prior-art/` | Raw search results (CSV) from 10 Google Scholar vectors |
 | `verifier/` | Acceptance criteria and validation runs |
 
