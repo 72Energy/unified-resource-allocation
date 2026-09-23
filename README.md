@@ -29,6 +29,7 @@ with      ∂L/∂αᵢ = −sᵢ  (sensitivity drives allocation)
 | `docs/unified-framework.md` | Full mathematical framework with 15 numbered equations |
 | `docs/prior-art-analysis.md` | Prior art overlap analysis — 146 papers across 10 search vectors |
 | `docs/cfd-mathematical-proof.md` | Mathematical proof of O(n⁴)→O(1) speedup for hybrid AI CFD |
+| `docs/b2b-business-plan.md` | OptiCore AI B2B licensing architecture for autonomous systems |
 | `data/prior-art/` | Raw search results (CSV) from 10 Google Scholar vectors |
 | `verifier/` | Acceptance criteria and validation runs |
 
@@ -73,11 +74,13 @@ with      ∂L/∂αᵢ = −sᵢ  (sensitivity drives allocation)
 
 ## Principal Documents
 
-The framework is delivered as two formal Word documents:
+The framework is delivered as three formal Word documents:
 
 1. **Unified Resource Allocation Framework** — Mathematical proof of isomorphism, domain mappings, implementation roadmap, and concrete numerical examples (UAV edge scenario with 100ms latency budget)
 
 2. **Prior Art Overlap Analysis** — Systematic literature review with quantitative overlap matrix, strategic implications, and publication venue recommendations
+
+3. **B2B Business Plan & Licensing Architecture** — Market-ready commercialization strategy for OptiCore AI, including IP protection (trade secret + patent), tiered licensing ($150K–$2M+), phased GTM, and exit strategy
 
 ---
 
